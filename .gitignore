@@ -1,5 +1,6 @@
 *.sw*
 *~
+.idea/
 
 # Logs and databases #
 ######################
